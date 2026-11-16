@@ -12,6 +12,8 @@ momentum, clean craft, reads at small size).
 
 `main.py` copies `image.jpg` byte-for-byte to `/output/entry.png`.
 It uses only the Python standard library, no network, no time, no randomness.
+It first checks that `image.jpg` exists and is not empty, and after copying
+it verifies the copy has the same byte size as the source.
 
 ## How to run
 
