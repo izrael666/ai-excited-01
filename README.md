@@ -1,3 +1,7 @@
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/izrael666/ai-excited-01/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/izrael666/ai-excited-01/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+
 [![Vibe coded with Muse](https://make.fun/api/badge?repo=izrael666/ai-excited-01)](https://make.fun/bounty/ai-excited-01)
 [![View the Bounty on make.fun](https://make.fun/api/badge?repo=izrael666/ai-excited-01&type=view-bounty)](https://make.fun/bounty/ai-excited-01)
 [![Fund this Bounty](https://make.fun/api/badge?repo=izrael666/ai-excited-01&type=fund-bounty)](https://make.fun/bounty/ai-excited-01)
